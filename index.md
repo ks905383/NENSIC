@@ -15,7 +15,7 @@ Talks with representatives from domestic and international non-profit organizati
 
 ## Join us
 - [Slack](https://join.slack.com/t/nensic/shared_invite/zt-fk91kfac-cW8dlSHtWMF4VgmQSY7OCw)
-- [Mailing List](https://lists.columbia.edu/mailman/listinfo/nensic)
+- [Mailing List](https://listserv.cuit.columbia.edu/scripts/wa.exe?SUBED1=NENSIC&A=1)
 - [Calendar](https://calendar.google.com/calendar/embed?src=iri.columbia.edu_cl5ucjufndp2k8d6k18jth42fc%40group.calendar.google.com&ctz=America%2FNew_York)
 
 ## Contact us
