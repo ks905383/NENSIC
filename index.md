@@ -4,9 +4,10 @@
 A network, a platform for collaboration and open dialogue, a series of events, open to any young researchers or professionals interested in climate and environmental issues, originating at Columbia University but with a global reach.
 
 ## We aim to 
-Build a network of young researchers and professionals active in the broader climate space across all disciplines and sectors
-Improve interdisciplinary communication by building informal connections between disciplines
-Provide a friendly, inclusive, and accessible venue for members to share their work and find collaborators
+- Build a network of young researchers and professionals active in the broader climate space across all disciplines and sectors
+- Improve interdisciplinary communication by building informal connections between disciplines
+- Provide a friendly, inclusive, and accessible venue for members to share their work and find collaborators
+
 ## We comprise
 Hundreds of members (and counting) from different backgrounds, including researchers, grad students, law students, postdocs, and early-career professionals in climate science, energy, health, policy, and law, hailing from four continents.
 
